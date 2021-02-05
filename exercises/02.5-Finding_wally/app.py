@@ -2,3 +2,7 @@ people = [ 'Lebron','Aaliyah','Diamond','Dominique','Aliyah','Jazmin','Darnell',
 
 #Your code here:
 
+for index in range(len(people)):
+    if people[index] == "Wally":
+        print(index)
+
