@@ -222,7 +222,7 @@
         {
             "slug": "05.1-sum_odd_items",
             "title": "05.1-sum_odd_items",
-            "done": false,
+            "done": true,
             "path": "exercises/05.1-sum_odd_items",
             "translations": [
                 "es",
@@ -233,7 +233,7 @@
         {
             "slug": "06-forEach_loop",
             "title": "06-forEach_loop",
-            "done": false,
+            "done": true,
             "path": "exercises/06-forEach_loop",
             "translations": [
                 "es",
@@ -255,7 +255,7 @@
         {
             "slug": "07-Do_while",
             "title": "07-Do_while",
-            "done": false,
+            "done": true,
             "path": "exercises/07-Do_while",
             "translations": [
                 "es",
@@ -266,7 +266,7 @@
         {
             "slug": "08-Delete_element",
             "title": "08-Delete_element",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Delete_element",
             "translations": [
                 "es",
@@ -277,7 +277,7 @@
         {
             "slug": "08.1-Merge_list",
             "title": "08.1-Merge_list",
-            "done": false,
+            "done": true,
             "path": "exercises/08.1-Merge_list",
             "translations": [
                 "es",
